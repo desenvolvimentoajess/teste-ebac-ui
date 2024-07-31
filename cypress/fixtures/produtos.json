@@ -1,0 +1,24 @@
+[
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "36",
+        "cor": "Blue",
+        "quantidade":3
+
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade":5
+        
+    },
+
+    {
+        "nomeProduto": "Orestes Yoga Pant",
+        "tamanho": "36",
+        "cor": "Green",
+        "quantidade":10
+    }
+]
